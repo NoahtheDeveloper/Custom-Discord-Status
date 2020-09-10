@@ -12,3 +12,6 @@ This is diffrent as you can customize it to however you want. The newest release
 5. Follow the basics in the file.
 6. Click discordpresence app.
 7. Should be working now!
+
+# This is what the Rich Presence Looks like!
+![alt text](https://make-america.great-aga.in/f40vrcL25f.png)
